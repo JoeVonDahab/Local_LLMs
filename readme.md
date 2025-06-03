@@ -8,3 +8,7 @@ conda install -c conda-forge llama-cpp-python      # v0.2.24 at time of writing
 from llama_cpp import Llama
 print(Llama)   # should print the class definition
 ```
+### **Install Requirments**
+```bash
+pip install -r requirements.txt
+```
