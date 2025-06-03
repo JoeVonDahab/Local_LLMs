@@ -1,5 +1,5 @@
 **Installing LLama_cpp**
-``bash
+```bash
 # Python ≥3.10 is required for the current wheels
 conda create -n llama python=3.11 pip cmake ninja -c conda-forge
 conda activate llama
